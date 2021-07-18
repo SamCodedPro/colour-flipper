@@ -2,4 +2,4 @@
 
 ## Hosted Link
 
-[Live Preview]()
+[Live Preview](https://samcodedpro.github.io/colour-flipper/)
